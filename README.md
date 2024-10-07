@@ -13,7 +13,7 @@ La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Do
   
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
-Micro:Steamakers |![](Imatges/MicroSteamakers.jpg) | [Microbit](STL/StandMicroSteamaker.stl)
+Micro:Steamakers |![](Imatges/MicroSteamakers.jpg) | [MicroSteamakers](STL/StandMicroSteamaker.stl)
 Micro:Steamakers amb batería  |![](Imatges/MicroSteamakersBat.jpg) | [Amb bateria](STL/StandMicroSteamakerBat.stl)
  
 ## Llicència
