@@ -2,7 +2,7 @@
 
 A holder helps to keep the Micro:Steamakers in an ergonomic position, prevents shortcircuits and take care of the components.  
 
-<img src="Imatges/Micro1.jpg" width="200" /> <img src="Imatges/Micro2.jpg" width="190" />
+<img src="Imatges/Micro1.jpg" width="250" /> <img src="Imatges/Micro2.jpg" width="245" />
 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
