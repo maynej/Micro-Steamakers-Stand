@@ -2,7 +2,7 @@
 
 A holder helps to keep the Micro:Steamakers in an ergonomic position and prevents shortcircuits  
 
-<img src="Imatges/Micro-Steamakers-Stand.jpg" width="200" /> <img src="Imatges/Micro-Steamakers-StandBat.jpg" width="200" />
+<img src="Imatges/Micro1.jpg" width="200" /> <img src="Imatges/Micro2.jpg" width="190" />
 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
@@ -13,8 +13,8 @@ La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Do
   
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
-Micro:Steamakers |![](Imatges/StandMicrobit.jpg) | [Microbit](STL/StandMicroSteamaker.stl)
-Micro:Steamakers amb batería  |![](Imatges/StandMicroSteamakerBat.jpg) | [Amb bateria](STL/StandMicroSteamakerBat.stl)
+Micro:Steamakers |![](Imatges/MicroSteamakers.jpg) | [Microbit](STL/StandMicroSteamaker.stl)
+Micro:Steamakers amb batería  |![](Imatges/MicroSteamakersBat.jpg) | [Amb bateria](STL/StandMicroSteamakerBat.stl)
  
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
