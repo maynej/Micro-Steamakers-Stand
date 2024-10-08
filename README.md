@@ -1,13 +1,13 @@
 ## Micro:Steamakers Stand
 
-A holder helps to keep the Micro:Steamakers in an ergonomic position, prevents shortcircuits and take care of the components.  
+A holder helps to keep the Micro:Steamakers in an ergonomic position, prevents shortcircuits and take care the components.  
 
 <img src="Imatges/Micro1.jpg" width="300" />   <img src="Imatges/Micro2.jpg" width="290" />
 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF està disponible també en llengua castellana  
+La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF   
 
 # Arxius per imprimir 
   
