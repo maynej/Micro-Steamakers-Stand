@@ -4,8 +4,9 @@ A holder helps to keep the Micro:Steamakers in an ergonomic position, prevents s
 
 <img src="Imatges/Micro1.jpg" width="300" />   <img src="Imatges/Micro2.jpg" width="290" />
 
-Micro:Steamakers was made by [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1677-placa-esp32-micro-steamakers-8436574314663.html)) 
+Micro:Steamakers was made by [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1677-placa-esp32-micro-steamakers-8436574314663.html)  
 
+Tutorial d'en [Federico Coca](https://fgcoca.github.io/ESP32-micro-STEAMakers/). del Club Robótico de Granada 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
