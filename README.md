@@ -8,7 +8,7 @@ Micro:Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic
 
 Tutorial d'en [Federico Coca](https://fgcoca.github.io/ESP32-micro-STEAMakers/). del Club Robótico de Granada 
 
-Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
+Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
 La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF   
 
