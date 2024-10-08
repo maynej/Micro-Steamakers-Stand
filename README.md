@@ -7,7 +7,7 @@ A holder helps to keep the Micro:Steamakers in an ergonomic position, prevents s
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF està disponible també en llengua castellana  
+La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF   
 
 # Arxius per imprimir 
   
