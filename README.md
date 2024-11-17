@@ -2,7 +2,7 @@
 
 A holder helps to keep the Micro:Steamakers in an ergonomic position, prevents shortcircuits and take care the components.  
 
-<img src="Imatges/Micro1.jpg" width="300" />   <img src="Imatges/Micro2.jpg" width="290" /> <img src="Imatges/MicroShield.jpg" width="300" />   <img src="Imatges/MicroStemfie.jpg" width="290" /> 
+<img src="Imatges/Micro1.jpg" width="300" />   <img src="Imatges/Micro2.jpg" width="290" />  
 
 
 Micro:Steamakers desenvolupada per [Innovadidàctic](https://shop.innovadidactic.com/ca/standard-placas-shields-y-kits/1677-placa-esp32-micro-steamakers-8436574314663.html)  
@@ -13,12 +13,19 @@ Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study 
 
 La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF   
 
-# Arxius per imprimir 
+# Arxius per imprimir Suports per Micro:Steamakers
   
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
 Micro:Steamakers |![](Imatges/MicroSteamakers.jpg) | [MicroSteamakers](STL/StandMicroSteamaker.stl)
 Micro:Steamakers amb batería  |![](Imatges/MicroSteamakersBat.jpg) | [Amb bateria](STL/StandMicroSteamakerBat.stl)
+
+# Arxius per imprimir Suports Shield per Micro:Steamakers
+
+<img src="Imatges/MicroShield.jpg" width="300" />   <img src="Imatges/MicroStemfie.jpg" width="290" />
+
+Descripció         | Imatge          | Arxiu STL    
+------------- | ------------- | ------------- 
 Micro:Steamakers + Shield  |![](Imatges/Shield.png) | [Suport Shield](STL/Shield.stl)
 Micro:Steamakers + Shield Stemfie  |![](Imatges/ShieldStemfie.jpg) | [Suport Stemfie](STL/ShieldStemfie.stl)
  
