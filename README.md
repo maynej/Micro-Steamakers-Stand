@@ -22,7 +22,7 @@ Micro:Steamakers amb batería  |![](Imatges/MicroSteamakersBat.jpg) | [Amb bater
 
 # Arxius per imprimir Suports Shield per Micro:Steamakers
 
-<img src="Imatges/MicroShield.jpg" width="300" />   <img src="Imatges/MicroStemfie.jpg" width="290" />
+<img src="Imatges/MicroShield3.jpg" width="300" /> <img src="Imatges/MicroShield.jpg" width="300" />   <img src="Imatges/MicroStemfie.jpg" width="290" />
 
 Descripció         | Imatge          | Arxiu STL    
 ------------- | ------------- | ------------- 
