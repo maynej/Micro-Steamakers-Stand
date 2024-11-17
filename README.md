@@ -19,8 +19,8 @@ Descripció         | Imatge          | Arxiu STL
 ------------- | ------------- | ------------- 
 Micro:Steamakers |![](Imatges/MicroSteamakers.jpg) | [MicroSteamakers](STL/StandMicroSteamaker.stl)
 Micro:Steamakers amb batería  |![](Imatges/MicroSteamakersBat.jpg) | [Amb bateria](STL/StandMicroSteamakerBat.stl)
-Micro:Steamakers + Shield  |![](Imatges/MicroShield.png) | [Amb bateria](STL/Shield.stl)
-Micro:Steamakers + Shield Stemfie  |![](Imatges/MicroShieldStemfie.jpg) | [Amb bateria](STL/ShieldStemfie.stl)
+Micro:Steamakers + Shield  |![](Imatges/Shield.png) | [Suport Shield](STL/Shield.stl)
+Micro:Steamakers + Shield Stemfie  |![](Imatges/ShieldStemfie.jpg) | [Suport Stemfie](STL/ShieldStemfie.stl)
  
 ## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
