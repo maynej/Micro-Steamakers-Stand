@@ -13,7 +13,7 @@ Suports d'en [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study 
 
 La [documentació](https://github.com/maynej/Micro-Steamakers-Stand/tree/main/Doc/) en PDF   
 
-# Arxius per imprimir Suports per Micro:Steamakers
+### Arxius per imprimir Suports per Micro:Steamakers
 
 The supports helps to prevents short-circuits and take care of the components.
   
@@ -22,7 +22,7 @@ Descripció         | Imatge          | Arxiu STL
 Micro:Steamakers |![](Imatges/MicroSteamakers.jpg) | [MicroSteamakers](STL/StandMicroSteamaker.stl)
 Micro:Steamakers amb batería  |![](Imatges/MicroSteamakersBat.jpg) | [Amb bateria](STL/StandMicroSteamakerBat.stl)
 
-# Arxius per imprimir Suports Shield per Micro:Steamakers
+### Arxius per imprimir Suports Shield per Micro:Steamakers
 
 <img src="Imatges/MicroShield3.jpg" width="300" /> <img src="Imatges/MicroShield.jpg" width="220" />   <img src="Imatges/MicroStemfie.jpg" width="290" />
 
